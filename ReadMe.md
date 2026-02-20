@@ -21,4 +21,4 @@ Diy flow: https://github.com/jayjayhust/open-duck-mini_diy_flow
 
 Original robot from Disney: https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-How to Make a Robot Walk (No AI, Just Physics, with code): youtu.be/RXGrTD71FMc
+How to Make a Robot Walk (No AI, Just Physics, with code): https://www.youtube.com/watch?v=RXGrTD71FMc
